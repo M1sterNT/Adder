@@ -7,7 +7,7 @@ class Adder {
         int x = sc.nextInt();
         int y = sc.nextInt();
 
-        System.out.println(x ** y);
+        System.out.println(x */ y);
         // Process
         //int z = x + y;
 
